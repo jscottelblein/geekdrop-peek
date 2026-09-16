@@ -1,4 +1,4 @@
-# ![YooHoo ...](https://github.com/jscottelblein/geekdrop-peek/blob/master/GeekDrop%20Peek/Images/GeekDrop%20Peek.png)   GeekDrop Peek #
+# ![YooHoo ...](GeekDrop%20Peek/Images/GeekDrop%20Peek.png)   GeekDrop Peek #
 
 **Extract &amp; View Strings in Files via Windows' Context-Menu.**
 
@@ -88,39 +88,39 @@ Anything else, let me know in the usual Issues area, here.
 
 **First time ya run it, you'll see this, prompting you to install the Strings "engine".**
 
-![First time ya run it, you'll see this, prompting you to install the Strings "engine".](https://github.com/jscottelblein/geekdrop-peek/blob/master/GeekDrop%20Peek/Images/Screenshots/GeekDrop-Peek-Installation-Step1.jpg)
+![First time ya run it, you'll see this, prompting you to install the Strings "engine".](GeekDrop%20Peek/Images/Screenshots/GeekDrop-Peek-Installation-Step1.jpg)
 
 **Second step, you're prompted to install the context-menu item.**
 
-![Second step, you're prompted to install the context-menu item.](https://github.com/jscottelblein/geekdrop-peek/blob/master/GeekDrop%20Peek/Images/Screenshots/GeekDrop-Peek-Installation-Step2.jpg)
+![Second step, you're prompted to install the context-menu item.](GeekDrop%20Peek/Images/Screenshots/GeekDrop-Peek-Installation-Step2.jpg)
 
 **That's it! Now you're just told how to use it.**
 
-![That's it! Now you're just told how to use it.](https://github.com/jscottelblein/geekdrop-peek/blob/master/GeekDrop%20Peek/Images/Screenshots/GeekDrop-Peek-Installation-Step3.jpg)
+![That's it! Now you're just told how to use it.](GeekDrop%20Peek/Images/Screenshots/GeekDrop-Peek-Installation-Step3.jpg)
 
 **The main window when no engine or context-menu item is installed. From here you basically just click that "Install" button.**
 
-![The main window when no engine or context-menu item is installed. From here you basically just click that "Install" button.](https://github.com/jscottelblein/geekdrop-peek/blob/master/GeekDrop%20Peek/Images/Screenshots/GeekDrop-Peek-Install.jpg)
+![The main window when no engine or context-menu item is installed. From here you basically just click that "Install" button.](GeekDrop%20Peek/Images/Screenshots/GeekDrop-Peek-Install.jpg)
 
 **Screenshot showing the context-menu item you'll click on when you have a file(s) selected in Windows.**
 
-![Screenshot showing the context-menu item you'll click on when you have a file(s) selected in Windows.](https://github.com/jscottelblein/geekdrop-peek/blob/master/GeekDrop%20Peek/Images/Screenshots/GeekDrop-Peek-Context-Menu.png)
+![Screenshot showing the context-menu item you'll click on when you have a file(s) selected in Windows.](GeekDrop%20Peek/Images/Screenshots/GeekDrop-Peek-Context-Menu.png)
 
 **An example of the GeekDrop Peek output after "peeking" into an "unknown" file, to look around for anything suspicious. Oops! Look at that! We found some stuff! We definitely don't wanna be running THAT on our system!**
 
-![An example of the GeekDrop Peek output after "peeking" into an "unknown" file, to look around for anything suspicious. Oops! Look at that! We found some stuff! We definitely don't wanna be running THAT on our system!](https://github.com/jscottelblein/geekdrop-peek/blob/master/GeekDrop%20Peek/Images/Screenshots/GeekDrop-Peek-Example-Output.png)
+![An example of the GeekDrop Peek output after "peeking" into an "unknown" file, to look around for anything suspicious. Oops! Look at that! We found some stuff! We definitely don't wanna be running THAT on our system!](GeekDrop%20Peek/Images/Screenshots/GeekDrop-Peek-Example-Output.png)
 
 **The 'About' screen. Pretty, ain't it?**
 
-![The 'About' screen. Pretty, ain't it?](https://github.com/jscottelblein/geekdrop-peek/blob/master/GeekDrop%20Peek/Images/Screenshots/GeekDrop-Peek-About.jpg)
+![The 'About' screen. Pretty, ain't it?](GeekDrop%20Peek/Images/Screenshots/GeekDrop-Peek-About.jpg)
 
 **Want to uninstall GeekDrop Peek? Simple, just click that Uninstall button and the context-menu item will be deleted as well as the Strings engine, leaving your system just as it was before you installed it.**
 
-![Want to uninstall GeekDrop Peek? Simple, just click that Uninstall button and the context-menu item will be deleted as well as the Strings engine, leaving your system just as it was before you installed it.](https://github.com/jscottelblein/geekdrop-peek/blob/master/GeekDrop%20Peek/Images/Screenshots/GeekDrop-Peek-Uninstall.jpg)
+![Want to uninstall GeekDrop Peek? Simple, just click that Uninstall button and the context-menu item will be deleted as well as the Strings engine, leaving your system just as it was before you installed it.](GeekDrop%20Peek/Images/Screenshots/GeekDrop-Peek-Uninstall.jpg)
 
 **See?**
 
-![See?](https://github.com/jscottelblein/geekdrop-peek/blob/master/GeekDrop%20Peek/Images/Screenshots/GeekDrop-Peek-Uninstallation.jpg)
+![See?](GeekDrop%20Peek/Images/Screenshots/GeekDrop-Peek-Uninstallation.jpg)
 
 **Even better, how about a quick demonstration video? (_Click below image to watch on YouTube_)**
 
